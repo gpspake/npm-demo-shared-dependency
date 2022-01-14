@@ -1,0 +1,17 @@
+{
+  "name": "@spake/npm-demo-shared-dependency",
+  "version": "2.0.0",
+  "description": "I'm a dependency 2.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "George Spake",
+  "license": "ISC",
+  "devDependencies": {
+    "semantic-release": "^18.0.1"
+  }
+}
