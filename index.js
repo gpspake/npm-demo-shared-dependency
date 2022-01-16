@@ -1,3 +1,5 @@
+// this is a comment
+
 function HelloSharedDependency() {
     return "I'm a shared dependency 2.0.0"
 }
