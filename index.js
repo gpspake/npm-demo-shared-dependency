@@ -1,6 +1,6 @@
 // this is a comment
 
-// test using build in commit part 2
+// use commit from examples
 
 function HelloSharedDependency() {
     return "I'm a shared dependency 2.0.0"
