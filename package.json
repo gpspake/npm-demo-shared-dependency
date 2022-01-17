@@ -4,8 +4,8 @@
   "description": "I'm a dependency 2.0.0",
   "main": "index.js",
   "scripts": {
-    "build": "babel src -d dist --source-maps true",
-    "postbuild": "cp package.json dist/ && cp README.md dist/ && cp CHANGELOG.md dist/",
+    "copy": "cp package.json dist/ && cp README.md dist/ && cp CHANGELOG.md dist/",
+    "build": "babel src -d dist --source-maps true && npm run copy",
     "test": "test"
   },
   "keywords": [
