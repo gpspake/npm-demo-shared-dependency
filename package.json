@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "babel src -d dist --source-maps true",
+    "postbuild": "cp package.json dist/ && cp README.md dist/ && cp CHANGELOG.md dist/",
     "test": "test"
   },
   "keywords": [
