@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/gpspake/npm-demo-shared-dependency/compare/v1.0.2...v1.1.0) (2022-01-17)
+
+
+### Features
+
+* **npm-demo:** try using feat in commit message ([52c085c](https://github.com/gpspake/npm-demo-shared-dependency/commit/52c085ca2e545a1f11e650c51d98bf2035440fb1))
+
 ## [1.0.2](https://github.com/gpspake/npm-demo-shared-dependency/compare/v1.0.1...v1.0.2) (2022-01-17)
 
 
