@@ -7,7 +7,7 @@ module.exports = {
             "pkgRoot": "dist",
         }],
         ["@semantic-release/github", {
-            "assets": "release/*.tgz"
+            "assets": "dist"
         }],
         "@semantic-release/git"
     ],
