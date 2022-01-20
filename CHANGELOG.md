@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/gpspake/npm-demo-shared-dependency/compare/v1.1.2...v1.1.3) (2022-01-20)
+
+
+### Bug Fixes
+
+* testing semantic-release github ([48490e5](https://github.com/gpspake/npm-demo-shared-dependency/commit/48490e5300559806fad4771038f3b8d36eccc07a))
+
 ## [1.1.2](https://github.com/gpspake/npm-demo-shared-dependency/compare/v1.1.1...v1.1.2) (2022-01-20)
 
 
