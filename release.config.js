@@ -6,9 +6,7 @@ module.exports = {
         ["@semantic-release/npm", {
             "pkgRoot": "dist",
         }],
-        ["@semantic-release/github", {
-            "assets": "dist"
-        }],
+        "@semantic-release/github",
         "@semantic-release/git"
     ],
     "preset": "angular"
