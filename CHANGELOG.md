@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/gpspake/npm-demo-shared-dependency/compare/v1.1.3...v1.1.4) (2022-01-21)
+
+
+### Bug Fixes
+
+* remove assets option ([1f95fee](https://github.com/gpspake/npm-demo-shared-dependency/commit/1f95feeafac864b2d43ae7ad6bc9474052e1a56e))
+
 ## [1.1.3](https://github.com/gpspake/npm-demo-shared-dependency/compare/v1.1.2...v1.1.3) (2022-01-20)
 
 
